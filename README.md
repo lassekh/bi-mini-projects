@@ -1,2 +1,2 @@
-# bi-mp-1
-BI Mini Project 1
+# Mini Project 1
+Minimum disse tre filformater bliver anvendt: PDF, billede, JSON.
